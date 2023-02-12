@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SurfaceArea
+comment0.text=\r\n\ Define\ a\ class\ SurfaceArea\ that\ contains\ static\ methods\ \r\n\ to\ calculate\ the\ surface\ area\ for\:\ circle,\ rectangle\ and\ triangle.\r\n\ Validate\ the\ created\ methods.\r\n\r\n\ @author\ Micha\u0142\ Warszawski\r\n\ @version\ 25.10.2022\r\n
+comment1.params=r
+comment1.target=double\ CircleArea(int)
+comment2.params=a\ h
+comment2.target=double\ TriangleArea(int,\ int)
+comment3.params=a\ b
+comment3.target=double\ RectangleArea(int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
